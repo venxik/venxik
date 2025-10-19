@@ -1,8 +1,7 @@
-# Hi there! 👋
-
-## 🔭
+## Hi there! 👋
 I'm a Senior Software Engineer with a knack for building (and shipping!) great products. I started my journey in mobile app development with React Native, and have since expanded into full-stack territory—handling backend projects with Golang and PHP, and building modern web experiences using Next.js, TypeScript, and JavaScript.
 
+## 🔭
 My go-to tools:
 - React Native
 - TypeScript & JavaScript
